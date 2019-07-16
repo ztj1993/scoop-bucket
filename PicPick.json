@@ -1,0 +1,6 @@
+{
+    "homepage": "https://picpick.app",
+    "version": "latest",
+    "url": "https://www.picpick.org/releases/latest/picpick_portable.zip",
+    "bin": "picpick.exe"
+}
