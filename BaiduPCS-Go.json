@@ -13,5 +13,11 @@
             "extract_dir": "BaiduPCS-Go-v3.6-windows-x64"
         }
     },
-    "bin": "BaiduPCS-Go.exe"
+    "bin": "BaiduPCS-Go.exe",
+    "shortcuts": [
+        [
+            "BaiduPCS-Go.exe",
+            "BaiduPCS-Go"
+        ]
+    ]
 }
