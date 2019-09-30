@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/klaussinani/ao",
+    "description": "Microsoft To-Do desktop app",
+    "license": "Apache License 2.0",
+    "version": "6.9.0",
+    "url": "https://github.com/klaussinani/ao/releases/download/v6.9.0/ao-6.9.0.exe#/ao.exe",
+    "bin": "ao.exe",
+    "checkver": {
+        "github": "https://github.com/klaussinani/ao"
+    },
+    "autoupdate": {
+        "url": "https://github.com/klaussinani/ao/releases/download/v$version/ao-$version.exe#/rufus.exe"
+    },
+    "shortcuts": [
+        [
+            "ao.exe",
+            "Ao"
+        ],
+        [
+            "ao.exe",
+            "Microsoft To-Do"
+        ]
+    ]
+}
