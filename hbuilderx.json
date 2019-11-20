@@ -1,0 +1,15 @@
+{
+    "homepage": "https://www.dcloud.io/hbuilderx.html",
+    "description": "HX是轻量编辑器和强大IDE的完美结合体。敏捷的性能，清爽的界面，强大的功能和于一身。",
+    "license": "Apache License 2.0",
+    "version": "2.4.2",
+    "url": "https://download.dcloud.net.cn/HBuilderX.2.4.2.20191115.zip",
+    "extract_dir": "HBuilderX",
+    "bin": "HBuilderX.exe",
+    "shortcuts": [
+        [
+            "HBuilderX.exe",
+            "HBuilderX"
+        ]
+    ]
+}
