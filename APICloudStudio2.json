@@ -1,0 +1,15 @@
+{
+    "homepage": "https://www.apicloud.com/devtools",
+    "description": "APICloud Studio 2 是 APICloud 推出的一款更适合前端工程师的移动应用集成开发工具。",
+    "license": "Apache License 2.0",
+    "version": "2.2.1",
+    "url": "http://studio.apicloud-system.com/basic-2.2.1.zip",
+    "extract_dir": "APICloudStudio2",
+    "bin": "APICloudStudio.exe",
+    "shortcuts": [
+        [
+            "apicloud-studio-2.exe",
+            "APICloudStudio2"
+        ]
+    ]
+}
