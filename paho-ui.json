@@ -11,7 +11,6 @@
             "url": "https://repo.eclipse.org/content/repositories/paho-releases/org/eclipse/paho/org.eclipse.paho.ui.app/1.1.1/org.eclipse.paho.ui.app-1.1.1-win32.win32.x86_64.zip"
         }
     },
-    "extract_dir": "paho-ui",
     "bin": "paho.exe",
     "shortcuts": [
         [

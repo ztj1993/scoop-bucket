@@ -4,8 +4,8 @@
     "license": "Apache License 2.0",
     "version": "2.2.1",
     "url": "http://studio.apicloud-system.com/basic-2.2.1.zip",
-    "extract_dir": "APICloudStudio2",
-    "bin": "APICloudStudio.exe",
+    "extract_dir": "APICloud Studio 2",
+    "bin": "apicloud-studio-2.exe",
     "shortcuts": [
         [
             "apicloud-studio-2.exe",
