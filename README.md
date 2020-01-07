@@ -1,6 +1,6 @@
 # scoop
 
-## 安装及更新
+## 部署更新
 ```
 scoop bucket add ztj1993 https://github.com/ztj1993/scoop.git
 
