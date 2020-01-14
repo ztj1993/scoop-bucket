@@ -1,0 +1,24 @@
+{
+    "homepage": "https://www.scootersoftware.com",
+    "description": "Beyond Compare is a multi-platform utility that combines directory compare and file compare functions in one package. Use it to manage source code, keep directories in sync, compare program output, etc.",
+    "license": {
+        "identifier": "Shareware",
+        "url": "https://www.scootersoftware.com/index.php?zz=kb_licensev4"
+    },
+    "version": "4.3.3.24545",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare4_x32.zip"
+        },
+        "64bit": {
+            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare4_x64.zip"
+        }
+    },
+    "bin": "BCompare.exe",
+    "shortcuts": [
+        [
+            "BCompare.exe",
+            "Beyond Compare 4"
+        ]
+    ]
+}
