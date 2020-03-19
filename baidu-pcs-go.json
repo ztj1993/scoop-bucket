@@ -2,15 +2,15 @@
     "homepage": "https://github.com/iikira/BaiduPCS-Go",
     "description": "百度网盘客户端 - Go语言编写",
     "license": "Apache License 2.0",
-    "version": "3.6",
+    "version": "3.6.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/iikira/BaiduPCS-Go/releases/download/v3.6/BaiduPCS-Go-v3.6-windows-x86.zip",
-            "extract_dir": "BaiduPCS-Go-v3.6-windows-x86"
+            "url": "https://github.com/iikira/BaiduPCS-Go/releases/download/v3.6.1/BaiduPCS-Go-v3.6.1-windows-x86.zip",
+            "extract_dir": "BaiduPCS-Go-v3.6.1-windows-x86"
         },
         "64bit": {
-            "url": "https://github.com/iikira/BaiduPCS-Go/releases/download/v3.6/BaiduPCS-Go-v3.6-windows-x64.zip",
-            "extract_dir": "BaiduPCS-Go-v3.6-windows-x64"
+            "url": "https://github.com/iikira/BaiduPCS-Go/releases/download/v3.6.1/BaiduPCS-Go-v3.6.1-windows-x64.zip",
+            "extract_dir": "BaiduPCS-Go-v3.6.1-windows-x64"
         }
     },
     "bin": "BaiduPCS-Go.exe",

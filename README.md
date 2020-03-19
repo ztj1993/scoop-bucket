@@ -2,7 +2,7 @@
 
 ## 部署更新
 ```
-scoop bucket add ztj1993 https://github.com/ztj1993/scoop.git
+scoop bucket add ztj1993 https://github.com/ztj1993/scoop-bucket.git
 
 scoop update
 ```
