@@ -21,3 +21,9 @@ https://github.com/lukesampson/scoop-extras/blob/master/bucket/winscp.json
 # exe 解压文件
 https://github.com/lukesampson/scoop-extras/blob/master/bucket/ao.json
 ```
+
+### 安装软件
+```
+scoop install https://raw.githubusercontent.com/ztj1993/scoop-bucket/master/paho-ui.json
+scoop install https://raw.githubusercontent.com/ztj1993/scoop-bucket/master/beyondcompare3.json
+```
