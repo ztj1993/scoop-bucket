@@ -8,10 +8,10 @@
     "version": "4.3.3.24545",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare4_x32.zip"
+            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare/BeyondCompare4_x32.zip"
         },
         "64bit": {
-            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare4_x64.zip"
+            "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare/BeyondCompare4_x64.zip"
         }
     },
     "bin": "BCompare.exe",
