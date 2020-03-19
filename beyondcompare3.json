@@ -1,7 +1,7 @@
 {
   "version": "newest",
   "homepage": "https://www.scootersoftware.com",
-  "url": "https://github.com/ztj1993/files/blob/master/soft/BeyondCompare/BeyondCompare3.zip",
+  "url": "https://github.com/ztj1993/files/raw/master/soft/BeyondCompare/BeyondCompare3.zip",
   "hash": "9228A1AB8BC45E5B5725FBFFEE9CF8DB4ED9C1BEBF12339E5F63BC2A17674D2A",
   "bin": "BCompare.exe",
   "shortcuts": [
